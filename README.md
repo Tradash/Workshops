@@ -1,2 +1,1 @@
-# learnyounode
-Воркшоп learnyounode
+# Задания из воркшопа learnyounode
